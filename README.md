@@ -1,3 +1,5 @@
 # my-mocha
 
-npm i mocha -D --registry=http://registry.npm.taobao.org
+npm i supertest -D --registry=http://registry.npm.taobao.org
+
+npm i koa --registry=http://registry.npm.taobao.org
